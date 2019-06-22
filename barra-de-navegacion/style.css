@@ -1,0 +1,31 @@
+.container__nav {
+    width: 100%;
+    height: 70px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    display: flex;
+    border: 1px solid grey;
+    align-items: center;
+    flex-direction: row;
+    
+
+}
+
+.item {
+    width: 12.5%;
+    height: 15px;
+    text-align: center;
+    
+}
+
+.item__logo {
+    width: 50%;
+    height: 100%;
+    text-align: left;
+    align-items: center;
+    font-weight: 400;
+
+}
+
+
+

@@ -1,0 +1,24 @@
+.flags__container {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    text-align: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.item {
+    width: 30%;
+    background-color: fuchsia;
+    color: white;
+    margin: 2;
+    align-items: center;
+
+}
+

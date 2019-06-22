@@ -1,0 +1,21 @@
+.container__form {
+    height: 350px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: bold;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;  
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.form__item--square {
+    border-radius: 0%; 
+
+}
+
+.form__item__button--active {
+    background-color: rgb(144, 187, 255);
+    color: #ffffff;
+}
